@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/anim_list"
+    android:id="@+id/mainLay"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/baloo_bhaijaan"
+        android:text="Pop It"
+        android:textColor="#E16919"
+        android:textSize="70sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="180dp"
+        android:layout_marginBottom="20dp"
+        android:fontFamily="@font/architects_daughter"
+        android:gravity="center"
+        android:text="Number Of Piles"
+        android:textColor="#E16919"
+        android:textSize="30sp" />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <SeekBar
+        android:id="@+id/sbPiles"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="75dp"
+        android:layout_marginRight="10dp"
+        android:progressDrawable="@drawable/custom_seekbar"
+        android:thumb="@drawable/custom_thumb" />
+
+    <TextView
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:text="5"
+        android:textSize="30sp"
+        android:textColor="#E16919"
+        android:fontFamily="@font/architects_daughter"
+        android:id="@+id/tvPiles"/>
+</LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="20dp"
+        android:fontFamily="@font/architects_daughter"
+        android:gravity="center"
+        android:text="Max Number Of Marble"
+        android:textColor="#E16919"
+        android:textSize="30sp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+    <SeekBar
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:id="@+id/sbNumGulot"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="75dp"
+        android:thumb="@drawable/custom_thumb"
+        android:progressDrawable="@drawable/custom_seekbar"/>
+        <TextView
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:text="5"
+            android:textSize="30sp"
+            android:textColor="#E16919"
+            android:fontFamily="@font/architects_daughter"
+            android:id="@+id/tvGulot"/>
+    </LinearLayout>
+    <Button
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="60dp"
+        android:fontFamily="casual"
+        android:text="start"
+        android:textSize="20sp"
+        android:background="@drawable/custom_button"
+        android:id="@+id/btnStart"
+        android:textColor="@color/white"/>
+
+
+</LinearLayout>

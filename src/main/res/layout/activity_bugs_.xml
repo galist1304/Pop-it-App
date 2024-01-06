@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/custom_main_background"
+    android:id="@+id/bugsLay"
+    tools:context=".Bugs_Activity">
+
+     <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Report Bugs"
+        android:textSize="70dp"
+        android:fontFamily="@font/baloo_bhaijaan"
+        android:layout_gravity="center"
+         android:textColor="#E16919"
+    />
+
+    <Button
+        android:id="@+id/btnEmail"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/baloo_bhaijaan"
+        android:textSize="25dp"
+        android:text="Email"
+        android:textColor="@color/white"
+        android:background="@drawable/custom_button"/>
+</LinearLayout>
