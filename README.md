@@ -48,6 +48,15 @@ Before you begin, ensure you have the following installed:
 3. Start a 2-player game with your friend and enjoy popping marbles!
 4. Win games to increase your score.
 
+## Contributing
+
+We welcome contributions to enhance the functionality and features of the Currency Converter App. To contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature or improvement.
+3. Make your changes and test thoroughly.
+4. Submit a pull request.
+
 ## Issues and Support
 
 If you encounter any issues or need assistance, please open an issue on the GitHub repository.
