@@ -50,7 +50,7 @@ Before you begin, ensure you have the following installed:
 
 ## Contributing
 
-We welcome contributions to enhance the functionality and features of the Currency Converter App. To contribute:
+We welcome contributions to enhance the functionality and features of the Pop-it App. To contribute:
 
 1. Fork the repository.
 2. Create a new branch for your feature or improvement.
@@ -61,4 +61,6 @@ We welcome contributions to enhance the functionality and features of the Curren
 
 If you encounter any issues or need assistance, please open an issue on the GitHub repository.
 
-   
+## Acknowledgments
+- Inspired by classic marble games.
+- Thank you to all contributors and users for supporting Pop-it!   
