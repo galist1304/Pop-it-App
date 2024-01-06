@@ -16,7 +16,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository to your local machine:
 
-   git clone https://github.com/your-username/pop-it.git
+   git clone https://github.com/galist1304/Pop-it-App.git
 2. Open the project in Android Studio.
 3. Build and run the app on your device or emulator.
 
