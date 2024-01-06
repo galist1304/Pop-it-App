@@ -23,23 +23,23 @@ Before you begin, ensure you have the following installed:
 ## Features
 ### User Authentication
 
-Log in or sign up to access the game.
-Secure authentication ensures your account is protected.
+- Log in or sign up to access the game.
+- Secure authentication ensures your account is protected.
 
 ### Game Settings
 
-Customize your game by choosing the number of piles on your board.
-Set the number of marbles in each pile according to your preferred difficulty level.
+- Customize your game by choosing the number of piles on your board.
+- Set the number of marbles in each pile according to your preferred difficulty level.
 
 ### 2-Player Gameplay
 
-Play the Pop-it game with a friend on the same device.
-Challenge each other and enhance your strategic skills.
+- Play the Pop-it game with a friend on the same device.
+- Challenge each other and enhance your strategic skills.
 
 ### Score Tracking
 
-Every game you win contributes to your overall score.
-Track your progress and compete with your friends.
+- Every game you win contributes to your overall score.
+- Track your progress and compete with your friends.
 
 ## How To Play
 
